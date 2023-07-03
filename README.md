@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasan Ali Çalışkan</h1>
-<h3 align="center">I'm a computer engineering student with a passion for software development. I specialize in Android Kotlin and Unity, and I'm also interested in projects related to artificial intelligence, such as image classification. I actively share open-source projects on Github and strive to create innovative and user-friendly solutions. I enjoy collaborating with others. Thank you!</h3>
+<h4 align="center">I'm a computer engineering student with a passion for software development. I specialize in Android Kotlin and Unity, and I'm also interested in projects related to artificial intelligence, such as image classification. I actively share open-source projects on Github and strive to create innovative and user-friendly solutions. I enjoy collaborating with others. Thank you!</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanalic&label=Profile%20views&color=0e75b6&style=flat" alt="hasanalic" /> </p>
+
 
 - 🌱 I’m currently learning **Android, Unity, TensorFlow**
 
