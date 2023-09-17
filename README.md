@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hasan Ali Çalışkan</h1>
-<h4 align="center">I'm a computer engineering student with a passion for software development. I specialize in Android Kotlin and Unity, and I'm also interested in projects related to artificial intelligence, such as image classification. I actively share open-source projects on Github and strive to create innovative and user-friendly solutions. I enjoy collaborating with others. Thank you!</h4>
+<h4 align="center">Hello! I'm a computer engineering student with a passion for software development. I specialize in Android Kotlin and I'm also interested in projects related to artificial intelligence, such as image classification. I actively share open-source projects on GitHub and strive to create innovative and user-friendly solutions. I enjoy collaborating with others. Thank you!</h4>
 
 
 
-- 🌱 I’m currently learning **Android, Unity, TensorFlow**
-
-- 📝 I sometimes write articles on [https://medium.com/@hasanalic](https://medium.com/@hasanalic)
-
-- 💬 Ask me about **Android**
+- 🌱 I’m currently learning **Android with Kotlin**
 
 - 📫 How to reach me **hasanali7295@gmail.com**
 
