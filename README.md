@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasan Ali Çalışkan</h1>
 <h4 align="center">I'm a computer engineering student with a passion for software development. I specialize in Android Kotlin and I'm also interested in projects related to artificial intelligence, such as image classification. I actively share open-source projects on GitHub and strive to create innovative and user-friendly solutions. I enjoy collaborating with others. Thank you!</h4>
 
-- 🌱 I’m currently learning **Android with Kotlin**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **hasanali7295@gmail.com**
 
