@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasan Ali Çalışkan</h1>
-<h4 align="center">I'm a computer engineering student with a passion for software development. I develop Android mobile applications with Kotlin, and I am also interested in artificial intelligence projects such as image classification. I actively share open-source projects on GitHub and enjoy collaborating with others.</h4>
+<h4 align="center">I'm a computer engineer with a passion for software development. I develop Android mobile applications with Kotlin, and I am also interested in artificial intelligence projects such as image classification. I actively share open-source projects on GitHub and enjoy collaborating with others.</h4>
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
